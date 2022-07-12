@@ -1,7 +1,8 @@
 # Ajustes no TCC
 
 ## Fernando Costenaro
-- [ ] Reorganizar a estrutura. No capítulo 2, trazer os requisitos e a prototipação, assim como, falar um pouco mais sobre o Figma.
+- [ ] Reorganizar a estrutura. 
+- [X] No capítulo 2, trazer os requisitos e a prototipação, assim como, falar um pouco mais sobre o Figma.
 - [ ] Deixar mais claro o funcionamento geral do sistema, mostrando outras telas. No capítulo 4.1
 - [ ] Algumas referências.
 ##
