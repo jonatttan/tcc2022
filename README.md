@@ -2,7 +2,7 @@
 
 ## Fernando Costenaro
 - [X] Reorganizar a estrutura. <kbd>Tópico Introdução reorganizado</kbd>
-- [X] No capítulo 2, trazer os requisitos e a prototipação, assim como, falar um pouco mais sobre o Figma. <kbd>Inserido item 2.4</kbd>
+- [X] No capítulo 2, trazer os requisitos e a prototipação, assim como, falar um pouco mais sobre o Figma. <kbd>Inserido itens 2.3 e 2.4</kbd>
 - [ ] Deixar mais claro o funcionamento geral do sistema, mostrando outras telas. No capítulo 4.1
 - [ ] Algumas referências.
 ##
