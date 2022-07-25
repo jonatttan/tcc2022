@@ -3,7 +3,7 @@
 ## Fernando Costenaro
 - [X] Reorganizar a estrutura. <kbd>Tópico Introdução reorganizado</kbd>
 - [X] No capítulo 2, trazer os requisitos e a prototipação, assim como, falar um pouco mais sobre o Figma. <kbd>Inserido itens 2.3 e 2.4</kbd>
-- [ ] Deixar mais claro o funcionamento geral do sistema, mostrando outras telas. No capítulo 4.1 <kbd>90% concluído</kbd>
+- [X] Deixar mais claro o funcionamento geral do sistema, mostrando outras telas. No capítulo 4.1 <kbd>Elaborado sub tópico 2.4.1.1</kbd>
 - [ ] Algumas referências.
 ##
 
@@ -12,7 +12,7 @@
 - [X] Melhorar a organização, principalmente referente a fundamentação teórica (mesmo citado pelo Prof. Fernando)
 - [X] Deixar mais explícito que irá utilizar a prototipação, definir melhor qual o modelo de desenvolvimento.<kbd>Iserido item 2.4</kbd>
 - [ ] Citar de onde obteve a citação.
-- [ ] Sentiu falta da parte do funcionamento do software em si, talvez utilizando casos de uso. <kbd>90% concluído</kbd>
+- [X] Sentiu falta da parte do funcionamento do software em si, talvez utilizando casos de uso. <kbd>Elaborado sub tópico 2.4.1.1</kbd>
 - [ ] Requisitos: Requisitos funcionais que seriam mais regras de negócio (Todos os campos de preenchimento obrigatório/Logar com nome de usuário e senha/Campos obrigatórios)
 - [ ] Requisitos não funcionais: RNFs 5 e 6, são requisitos funcionais (há controvérsias)
 - [X] Anexo: Considera que não é necessário. <kbd>Alterado para mostrar somente as telas do protótipo, sem o Flow</kbd>
